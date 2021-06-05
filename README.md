@@ -103,3 +103,17 @@ via `go generate`. There are many small decisions in Vugu which follow this phil
 just use the existing mechanism instead of inventing anew.  And keep doing that until there's proof that something
 else is really needed.  So far it's been working well.  And it allows Vugu to focus on the specific things it 
 brings to the table.
+
+# SPONSORS :
+
+# Interested in innovation ?
+
+If you are into innovation, feel free to check my companies web site.
+We are doing Design Thinking at Tooap.com
+[Formation au Design Thinking sur Paris Lyon Marseille et Bordeaux](https://tooap.com/)
+
+# Financez & développez votre projet avec un expert de la tech
+
+ Auto-évaluer la viabilité de votre innovation Laissez-vous guider par notre plateforme, pour vous poser les bonnes questions et évaluer vous-même les chances de réussite de votre projet.
+[Startup Elevator Financez & développez votre projet innovant](https://startup-elevator.com/)
+
